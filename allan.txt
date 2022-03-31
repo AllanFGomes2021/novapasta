@@ -1,0 +1,11 @@
+1) Instale o git
+
+2) execute os comandos abaixo (utilize os dados do github)
+git config --global user.name "Fulano de Tal"				EXISTE A OPÇÃO LOCAL
+git config --global user.email fulanodetal@exemplo.br			EXISTE A OPÇÃO LOCAL
+
+
+Na pasta que você quer gerenciar
+
+git init	INICIA O GIT
+git status	verifica os status do objeto (
